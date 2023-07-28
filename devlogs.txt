@@ -1,0 +1,11 @@
+bem vindo ao meu primeiro devlog :D, estou tão feliz!! então vou te dizer oq temos aqui
+
+Devlog #1 - inf0002
+
+    o jogo possui agora um animação de morte.
+    temos 3 vidas como na beta do jogo original do gamejolt.com
+    as levels do jogo são geradas aleatoriamente
+    as musicas foram remixadas( inclusive quando vc morre a musica desacelera e toca num tom mais lendo e com reverb que confesso q adoro escutar )
+    agora vc é controlado pelo mouse
+
+    e por enquanto isso, essas são as diferenças do jogo original que está no gamejolt
