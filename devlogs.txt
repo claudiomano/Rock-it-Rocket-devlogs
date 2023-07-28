@@ -1,6 +1,6 @@
 bem vindo ao meu primeiro devlog :D, estou tão feliz!! então vou te dizer oq temos aqui
 
-Devlog #1 - inf0002
+(27/07/2023) Devlog #1 - inf0002
 
     o jogo possui agora um animação de morte.
     temos 3 vidas como na beta do jogo original do gamejolt.com
