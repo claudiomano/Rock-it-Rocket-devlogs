@@ -9,3 +9,10 @@ bem vindo ao meu primeiro devlog :D, estou tão feliz!! então vou te dizer oq t
     agora vc é controlado pelo mouse
 
     e por enquanto isso, essas são as diferenças do jogo original que está no gamejolt
+
+(29/07/2023) Devlog #1 - inf0003
+
+    -adicionado sistemas de moedas provisório
+    -adicionado um final para as fases ( o portal )
+    
+    o tempo de cada rodada pode variar ( é meio complexo de explicar o porque )
